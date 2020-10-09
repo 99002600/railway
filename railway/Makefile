@@ -6,7 +6,7 @@ INC = -Iunity\
 -Iinc\
 -Itest
 
-PROJECT_NAME = ProgramChoose.out
+PROJECT_NAME = Railways.out
 
 # Output directory
 BUILD = build
